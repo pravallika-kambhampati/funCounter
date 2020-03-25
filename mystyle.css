@@ -1,0 +1,21 @@
+h1
+{
+  font-family:  'Bungee Shade',cursive;
+  text-align: center;
+}
+body{
+  margin-top: 100px;
+  background-image: url('https://image.freepik.com/free-photo/blue-border-leaves-pink-background-with-copyspace_24972-573.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position:top;
+  background-size:contain;
+
+}
+p
+{
+  font-family: 'Bungee Shade', cursive;
+  font-size: 100px;
+
+
+}
